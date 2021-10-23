@@ -9,3 +9,7 @@ Currently, my public Github is mostly populated with design projects or odd bits
 In the meantime, for more recent code I have written please visit my leetcode profile:
 
 https://leetcode.com/lukie-luke/
+
+### Update
+
+The leetcode solutions are not as easily accessible as I had assumed. I will need to manually transfer solutions over to Github for ease of access.
